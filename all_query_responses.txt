@@ -1,0 +1,22 @@
+Query 1: What are the pros and cons of Medicare advantage and traditional (supplemental) Medicare?
+
+Response:
+Pros of Medicare Advantage include having all Medicare Part A and Part B benefits in one plan, potential extra benefits like vision, hearing, and dental services, and a limit on out-of-pocket costs for covered services. Cons include the need to use doctors within the plan's network, potential requirements for plan approval before certain services are covered, and the possibility of additional premiums.
+
+Pros of traditional (supplemental) Medicare include the flexibility to use any doctor or hospital that accepts Medicare, the ability to add supplemental coverage like Medigap for out-of-pocket costs, and the option to choose coverage from an employer, union, or Medicaid. Cons may involve potentially higher out-of-pocket costs without a limit, the need to shop for and purchase supplemental coverage separately, and the lack of extra benefits like vision, hearing, and dental services that some Medicare Advantage plans offer.
+
+Query 2: How does Social Security affect IRMMA (income-related monthly adjusted amount)?
+
+Response:
+Social Security does not directly affect the income-related monthly adjusted amount (IRMAA). IRMAA is determined based on an individual's reported modified adjusted gross income from two years prior, not including Social Security benefits.
+
+Query 3: What happens if I delay Medicare Part D?
+
+Response:
+You may incur a late enrollment penalty if you delay enrolling in Medicare Part D after your Initial Enrollment Period is over and experience a period of 63 or more consecutive days without Medicare drug coverage or other creditable prescription drug coverage. This penalty is a permanent addition to your Medicare drug coverage premium and you may have to pay it for as long as you have Medicare drug coverage.
+
+Query 4: If I turn 65 have health insurance from my employer, when do I sign up for Part A?  Are there any penalties for waiting until I’m no longer covered by my employer’s plan?
+
+Response:
+You can sign up for Part A during a Special Enrollment Period while you are still covered by your employer's health plan or during the 8-month period that begins the month after your employer's health plan coverage ends. There are no penalties for waiting to enroll in Part A until you are no longer covered by your employer's health plan.
+
